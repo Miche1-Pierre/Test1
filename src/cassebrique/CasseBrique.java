@@ -1,7 +1,11 @@
 /*
 * To Do:
 * Mise à jour de la zone de collision entre la balle et la barre
-* Fixe le bug des collisions sur le côté */
+* Fixe le bug des collisions sur le côté
+* Ajout brique resistance progressive
+* Ajout autre bonus ou malus
+* Amelioration du code global
+*/
 
 package cassebrique;
 
